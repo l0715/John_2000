@@ -307,6 +307,11 @@ void fn_zad_6_4()
 	out.close();
 }
 
+void fn_zad_5()
+{
+	//kod do opracowania!
+}
+
 
 
 //****************************
